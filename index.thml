@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Maneviyat İklimi</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; }
+        h1 { color: #006D85; border-bottom: 2px solid #D2A045; padding-bottom: 10px; }
+        h2 { color: #006D85; margin-top: 25px; }
+        h3 { color: #006D85; }
+        p { margin-bottom: 15px; }
+        ul { margin-bottom: 15px; }
+        .contact-info { background: #FAF8F5; padding: 15px; border-radius: 5px; border-left: 5px solid #D2A045; }
+    </style>
+</head>
+<body>
+
+    <h1>Privacy Policy</h1>
+    <p>This Privacy Policy informs you about how your data is collected, used, and protected within the scope of the <strong>Maneviyat İklimi</strong> mobile application. Your security is important to us; therefore, the data you share with us is protected with sensitivity.</p>
+
+    <h2>1. Processing, Storage, and Deletion of Data</h2>
+    <p>Your data is processed in accordance with the law and honesty rules, for legitimate purposes, and limited to the purpose for which they are processed. Necessary measures are taken to ensure that your data is kept accurate and up to date.</p>
+    <p>Your data, which is stored for the period stipulated in the relevant legislation or required for the purpose for which they are processed, is deleted or destroyed at the end of this period.</p>
+
+    <h2>2. Data Controller</h2>
+    <p>The data controller is the person who determines the purposes and methods of processing data.</p>
+    <div class="contact-info">
+        <strong>Developer:</strong> Muhammed Ali Demir<br>
+        <strong>Address:</strong> Mecidiye Mah / Sultanbeyli / İstanbul<br>
+        <strong>E-mail:</strong> <a href="mailto:devmalidemir@gmail.com">devmalidemir@gmail.com</a>
+    </div>
+
+    <h2>3. Collected Data</h2>
+    <p>The data collected by this application may include:</p>
+    <ul>
+        <li><strong>User-Generated Content:</strong> The questions you submit through the application.</li>
+        <li><strong>Device Information:</strong> Device model and operating system version for compatibility.</li>
+        <li><strong>Push Notification Tokens (FCM Token):</strong> A unique, anonymous string of characters assigned to your device. This does not contain personal identifiable information (PII).</li>
+    </ul>
+
+    <h2>4. Purposes of Data Processing</h2>
+    <p>Your data is processed for the following purposes:</p>
+    <ul>
+        <li>Publishing your spiritual and religious questions to be answered by administrators.</li>
+        <li><strong>Push Notifications:</strong> Using your FCM Token to send you a notification solely when your specific question has been answered, or for general app announcements (e.g., daily hadith or quotes).</li>
+        <li>Improving service quality, communication, and overall security.</li>
+    </ul>
+
+    <h2>5. Transfer of Data</h2>
+    <p>Your data will not be shared with third parties without your explicit consent, except for legal obligations. However, it may be shared with our service providers (e.g., Google Firebase) strictly to provide the application's core functionalities, such as database storage and cloud messaging.</p>
+
+    <h2>6. Legal Rights</h2>
+    <p>You have the right to learn whether your data is processed, request correction of incomplete data, or request the deletion of your data. For these requests, contact <strong>devmalidemir@gmail.com</strong>.</p>
+
+    <h2>7. Services Used</h2>
+    <ul>
+        <li><strong>Firebase Cloud Firestore:</strong> Used as a database to securely store questions and answers.</li>
+        <li><strong>Firebase Cloud Messaging (FCM):</strong> Used exclusively to deliver push notifications to your device.</li>
+    </ul>
+
+    <h2>8. Consent and Validity</h2>
+    <p>This Privacy Policy entered into force on <strong>26.04.2026</strong> and is updated when necessary.</p>
+
+    <h2 id="deletion">Data Deletion Request</h2>
+    <p>To request the deletion of your submitted questions or your device's notification token from our database, please send an email to <strong>devmalidemir@gmail.com</strong>. Your request will be processed within 7 days.</p>
+    
+    <hr>
+    
+    <h2>Gizlilik Politikası (Türkçe)</h2>
+    <p>Bu Gizlilik Politikası, <strong>Maneviyat İklimi</strong> mobil uygulaması kapsamında verilerinizin nasıl toplandığı ve korunduğu hakkında sizi bilgilendirir.</p>
+
+    <h3>Toplanan Veriler ve Kullanım Amacı</h3>
+    <ul>
+        <li><strong>Kullanıcı İçeriği:</strong> Uygulama üzerinden sorduğunuz sorular, yöneticiler tarafından cevaplanmak ve uygulamada yayınlanmak üzere sunucularımızda saklanır.</li>
+        <li><strong>Bildirim Token'ı (FCM Token):</strong> Sorduğunuz soruya cevap geldiğinde size anında bildirim gönderebilmek veya genel duyurular (hadis, kıssa vb.) yapabilmek amacıyla cihazınıza atanan anonim bildirim anahtarı (token) toplanır. Bu veri hiçbir kişisel bilginizi (isim, telefon vb.) içermez.</li>
+        <li><strong>Hizmet Sağlayıcılar:</strong> Veritabanı ve bildirim altyapısı için Google Firebase hizmetleri kullanılmaktadır.</li>
+    </ul>
+
+    <p>Uygulamayı kullanmaya devam ederek bu politikayı kabul etmiş sayılırsınız. Verilerinizin veya sorduğunuz soruların silinmesi için <strong>devmalidemir@gmail.com</strong> adresinden bize ulaşabilirsiniz.</p>
+
+</body>
+</html>
